@@ -1,0 +1,53 @@
+MOD5_SYNC_CNTR 1000
+PLY.D
+1 1 3 Sep 16 13:58:08 2021                     
+Rule File Pathname: /afs/iitd.ac.in/user/e/ee/eey217523/ieclab21/lab3/MOD5_SYNC_CNTR/layout/DRC/_G-DF-LOGIC_MIXED_MODE65N-1P8M1T0F1U-LL-Calibre-drc-1.18_P1_
+Minimum POLY1 density over 1mm X 1mm area ( stepped in 500um increments across the chip ) is 15%. 
+Exclude CAD_TESTKEY_MARK 
+p 1 4
+CN MOD5_SYNC_CNTR c 1 0 0 1 0 0 0
+13480 10588
+50078 10588
+50078 12365
+13480 12365
+L2.D1
+1 1 2 Sep 16 13:58:09 2021                     
+Rule File Pathname: /afs/iitd.ac.in/user/e/ee/eey217523/ieclab21/lab3/MOD5_SYNC_CNTR/layout/DRC/_G-DF-LOGIC_MIXED_MODE65N-1P8M1T0F1U-LL-Calibre-drc-1.18_P1_
+Minimum AL_RDL density cross full chip is 10 %
+p 1 4
+CN MOD5_SYNC_CNTR c 1 0 0 1 0 0 0
+13480 10588
+50078 10588
+50078 12365
+13480 12365
+DENSITY_PRINT_FILES
+0 0 29 Sep 16 13:58:11 2021
+DF.D.DEN
+DF.DX.DEN
+POLY.D.DEN
+POLY.DX.DEN
+M5.D.CLVS.DEN
+M4.D.CLVS.DEN
+M3.D.CLVS.DEN
+M2.D.CLVS.DEN
+M1.D.CLVS.DEN
+M1.D.DEN
+M1.D1.DEN
+M2.D.DEN
+M2.D1.DEN
+M3.D.DEN
+M3.D1.DEN
+M4.D.DEN
+M4.D1.DEN
+M5.D.DEN
+M5.D1.DEN
+M6.D.DEN
+M6.D1.DEN
+M7.D.DEN
+M7.D1.DEN
+M8.D.DEN
+M8.D1.DEN
+L2.D1.DEN
+L2.D2.DEN
+eDRAM_DT.D.DEN
+eDRAM_DT.DX.DEN
